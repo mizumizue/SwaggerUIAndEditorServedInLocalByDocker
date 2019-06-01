@@ -1,4 +1,4 @@
-# SwaggerUI & SwaggerEditor
+# SwaggerUIAndEditorServedInLocalByDocker
 
 ## How to start
 
